@@ -4,6 +4,3 @@
 <a href="">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolikoDeveloper&hide_border=true&layout=compact&theme=merko" />
 </a>
-<a href="">
-  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MolikoDeveloper&theme=merko&hide_border=true">
-</a>
