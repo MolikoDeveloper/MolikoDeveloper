@@ -5,8 +5,8 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolikoDeveloper&hide_border=true&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/MolikoDeveloper/TwitchTS">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MolikoDeveloper&repo=TwitchTS&theme=dracula"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MolikoDeveloper&repo=TwitchTS&theme=dracula&hide_border=true&show_icons=true"/>
 </a>
 <a href="https://github.com/MolikoDeveloper/pwsh-backup-Outlook">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MolikoDeveloper&repo=pwsh-backup-Outlook&theme=dracula"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MolikoDeveloper&repo=pwsh-backup-Outlook&theme=dracula&hide_border=true&show_icons=true"/>
 </a>
